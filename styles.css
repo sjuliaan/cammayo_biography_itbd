@@ -1,0 +1,48 @@
+/* External CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #000203;
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #34495e;
+    padding-bottom: 5px;
+}
+
+.justified {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+sup {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+/
